@@ -4,7 +4,7 @@
 
 **AI & Full Stack Engineer** · I ship production AI systems — not demos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=520&lines=Small+Language+Model+Orchestration;Document+Intelligence+%26+Extraction;High-Performance+Inference+Serving;Scalable+Full-Stack+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=560&lines=Retrieval-Augmented+Generation+%28RAG%29;Small+Language+Model+Orchestration;Document+Intelligence+%26+Extraction;High-Performance+Inference+Serving;Scalable+Full-Stack+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ### ⚡ About
 
-AI & Full Stack Engineer at **Bain & Company**. I build and ship production AI systems — small language model orchestration, document intelligence, and high-performance inference — alongside the full-stack products that wrap them.
+AI & Full Stack Engineer at **Bain & Company**. I build and ship production AI systems end-to-end — **retrieval-augmented generation (RAG) pipelines, small language model orchestration, document intelligence, and high-performance inference** — alongside the full-stack products that wrap them.
 
-I work at the intersection of **applied AI and systems engineering**: not just getting models to run, but making them reliable, observable, and fast where it actually matters — in production.
+I work at the intersection of **applied AI and systems engineering**: embeddings and vector search, agentic workflows, and not just getting models to run — making them reliable, observable, and fast where it actually matters, in production.
 
 ---
 
@@ -37,6 +37,16 @@ I work at the intersection of **applied AI and systems engineering**: not just g
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+**AI / ML & RAG**  
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A98F?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0866FF?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-3B82F6?style=for-the-badge&logo=meta&logoColor=white)
+![mlx](https://img.shields.io/badge/mlx--lm-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 **Backend & Infra**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,12 +54,6 @@ I work at the intersection of **applied AI and systems engineering**: not just g
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal-141414?style=for-the-badge&logo=temporal&logoColor=white)
-
-**AI / ML**  
-![llama.cpp](https://img.shields.io/badge/llama.cpp-3B82F6?style=for-the-badge&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=for-the-badge&logo=chromadb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![mlx](https://img.shields.io/badge/mlx--lm-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -63,18 +67,18 @@ I work at the intersection of **applied AI and systems engineering**: not just g
 | Project | Stack | Description |
 |---|---|---|
 | [**sof**](https://github.com/ragnarlothbrok53/sof) | FastAPI · Temporal · Python | Fault-tolerant, durable orchestration for small language model workflows |
-| [**project-varaha**](https://github.com/ragnarlothbrok53/project-varaha) | FastAPI · ML | AI document processing — extraction, classification, summarization |
+| [**project-varaha**](https://github.com/ragnarlothbrok53/project-varaha) | FastAPI · ML | RAG-based document intelligence — extraction, classification, summarization & Q&A over documents |
 | [**slm-inference-engine**](https://github.com/ragnarlothbrok53/slm-inference-engine) | FastAPI · llama.cpp · mlx-lm | High-performance SLM inference with streaming + observability |
 | [**support-ticket-system**](https://github.com/ragnarlothbrok53/support-ticket-system) | Next.js · MongoDB | Full-stack ticketing with role-based workflow (live on Vercel) |
 | [**jarvisqr**](https://github.com/ragnarlothbrok53/jarvisqr) | Next.js · React · Firebase | Dynamic QR generation & management platform |
-| [**crypto-strategy-intelligence**](https://github.com/ragnarlothbrok53/crypto-strategy-intelligence) | PostgreSQL · ChromaDB · Docker | Data-driven trading strategy development with SLM agents |
+| [**crypto-strategy-intelligence**](https://github.com/ragnarlothbrok53/crypto-strategy-intelligence) | PostgreSQL · ChromaDB · Docker | RAG + SLM agents over market data for trading strategy development |
 
 ---
 
 ### 🔧 Currently
 
-- Scaling small-model orchestration & retrieval infrastructure
-- Optimizing local inference pipelines (llama.cpp / mlx-lm)
+- Scaling RAG pipelines & retrieval infrastructure over large document corpora
+- Optimizing local inference (llama.cpp / mlx-lm) for low-latency serving
 - Building agentic workflows and document-intelligence systems
 
 ---
