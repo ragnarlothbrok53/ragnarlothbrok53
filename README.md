@@ -2,7 +2,7 @@
 
 # Vineet Upadhyay
 
-**Full Stack Engineer → Applied AI** · Building production AI systems that don't fall over
+**AI & Full Stack Engineer** · I ship production AI systems — not demos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=520&lines=Small+Language+Model+Orchestration;Document+Intelligence+%26+Extraction;High-Performance+Inference+Serving;Scalable+Full-Stack+Systems)](https://git.io/typing-svg)
 
@@ -12,9 +12,9 @@
 
 ### ⚡ About
 
-Full Stack Engineer at **Bain & Company**, building toward SDE 2 / Applied AI roles. I care about systems that are *reliable, observable, and actually fast in production* — not demos.
+AI & Full Stack Engineer at **Bain & Company**. I build and ship production AI systems — small language model orchestration, document intelligence, and high-performance inference — alongside the full-stack products that wrap them.
 
-My focus: **small language models** — orchestration, inference optimization, and document intelligence — paired with solid full-stack delivery.
+I work at the intersection of **applied AI and systems engineering**: not just getting models to run, but making them reliable, observable, and fast where it actually matters — in production.
 
 ---
 
@@ -71,11 +71,11 @@ My focus: **small language models** — orchestration, inference optimization, a
 
 ---
 
-### 🎯 Currently
+### 🔧 Currently
 
-- Building toward **SDE 2 / Applied AI** roles
-- Exploring small-model orchestration, retrieval systems & agentic workflows
-- Open to collabs on inference infra and document intelligence
+- Scaling small-model orchestration & retrieval infrastructure
+- Optimizing local inference pipelines (llama.cpp / mlx-lm)
+- Building agentic workflows and document-intelligence systems
 
 ---
 
