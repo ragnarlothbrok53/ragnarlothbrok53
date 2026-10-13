@@ -66,9 +66,9 @@ I work at the intersection of **applied AI and systems engineering**: embeddings
 
 | Project | Stack | Description |
 |---|---|---|
-| [**slm-orchestration-machine**](https://github.com/ragnarlothbrok53/slm-orchestration-machine) | Python · SQLite | SLOM — durable execution for tool-using agents on small models |
+| [**slm-orchestration-machine**](https://github.com/ragnarlothbrok53/slm-orchestration-machine) | Python · SQLite | SLOM — durable execution for tool-using agents on small models · [![PyPI](https://img.shields.io/pypi/v/slom?label=pip%20install%20slom&color=3B82F6)](https://pypi.org/project/slom/) |
 | [**project-varaha**](https://github.com/ragnarlothbrok53/project-varaha) | FastAPI · ML | RAG-based document intelligence — extraction, classification, summarization & Q&A over documents |
-| [**slm-inference-machine**](https://github.com/ragnarlothbrok53/slm-inference-machine) | Python · llama.cpp · MLX | SLIM — OpenAI-compatible serving with admission control, deadlines & cancellation |
+| [**slm-inference-machine**](https://github.com/ragnarlothbrok53/slm-inference-machine) | Python · llama.cpp · MLX | SLIM — OpenAI-compatible serving with admission control, deadlines & cancellation · [![PyPI](https://img.shields.io/pypi/v/slim-serve?label=pip%20install%20slim-serve&color=3B82F6)](https://pypi.org/project/slim-serve/) |
 | [**support-ticket-system**](https://github.com/ragnarlothbrok53/support-ticket-system) | Next.js · MongoDB | Full-stack ticketing with role-based workflow (live on Vercel) |
 | [**jarvisqr**](https://github.com/ragnarlothbrok53/jarvisqr) | Next.js · React · Firebase | Dynamic QR generation & management platform |
 | [**crypto-strategy-intelligence**](https://github.com/ragnarlothbrok53/crypto-strategy-intelligence) | PostgreSQL · ChromaDB · Docker | RAG + SLM agents over market data for trading strategy development |
